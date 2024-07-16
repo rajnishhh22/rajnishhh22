@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1785/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
-<p align="left"> <a href="https://twitter.com/rajnishpuri15" target="blank"><img src="https://img.shields.io/twitter/follow/rajnishpuri15?logo=twitter&style=for-the-badge" alt="rajnishpuri15" /></a> </p>
+
 
 - 🌱 I’m currently learning **Javascript, DSA and React Native**
 
