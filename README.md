@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goldman&color=%2360E126&size=40&duration=3000&center=true&vCenter=true&lines=PROGRAMMER;WEB+DEVELOPER;SOFTWARE+DEV;LEARNER;GEARHEAD;VIDEO+EDITOR)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goldman&color=%2360E126&size=40&duration=3000&center=true&vCenter=true&lines=PROGRAMMER;WEB+DEVELOPER;LEARNER;)](https://git.io/typing-svg)
 
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rajnishhh22/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajnishhh22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rajnishhh22/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajnishhh22" height="30" width="40" /></a>
+
+
 
 
 
